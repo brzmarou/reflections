@@ -1,3 +1,13 @@
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Ponieważ mamy dzięki temu wpływ na to które gałęzie i gdzie zciągniemy. A przez to będzie panował większy porządek.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Różnice między forkiem, klonem i branczami
+
+Fork to klon wykonany na githubie (wewnętrzny). + że nie trzeba klonować do siebie na lokalną maszynę i potem ponownie wrzucać na gita...
+
+Klon to zrzucenie z gita na lokalną maszynę (lub local -> local).
+
+Branch - gałęzie tworzone przez commity.
