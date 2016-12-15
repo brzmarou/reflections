@@ -11,3 +11,7 @@ Fork to klon wykonany na githubie (wewnętrzny). + że nie trzeba klonować do s
 Klon to zrzucenie z gita na lokalną maszynę (lub local -> local).
 
 Branch - gałęzie tworzone przez commity.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Dzięki lokalnej kopii ostatniej wersji ze chmury, możemy łatwiej łączyć i przerabiać pliki. 
