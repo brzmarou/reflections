@@ -1,8 +1,8 @@
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+1. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Ponieważ mamy dzięki temu wpływ na to które gałęzie i gdzie zciągniemy. A przez to będzie panował większy porządek.
 
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+2. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Różnice między forkiem, klonem i branczami
 
@@ -12,6 +12,10 @@ Klon to zrzucenie z gita na lokalną maszynę (lub local -> local).
 
 Branch - gałęzie tworzone przez commity.
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+3. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Dzięki lokalnej kopii ostatniej wersji ze chmury, możemy łatwiej łączyć i przerabiać pliki. 
+
+4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ludzie mogą zgłaszać błędy w kodzie, i komentować poszczególne pliki, a także linijki kodu.
